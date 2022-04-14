@@ -9,7 +9,10 @@ This program generates a new random telephone number for it's user.
 [generator](generator): This is an Executable File and its used to generate the telephone numbers. 
 
 ### Instructions 
-
+- Fork this Repository
+- Clone your forked repository
+- Run the Executable File on your Terminal 
+- Star this repository
 ## Author :black_nib:
 
 - **Oladapo Olatunbosun** <[tuneboy2](https://github.com/tuneboy2)>
